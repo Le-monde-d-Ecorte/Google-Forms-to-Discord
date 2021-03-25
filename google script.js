@@ -49,6 +49,10 @@ function onSubmit(e) {
                 "fields": items,
                 "footer": {
                     "text": "Some footer here"
+                },
+                "author": {
+                  "name": "Google Forms",
+                  "icon_url": "https://duckduckgo.com/i/b5f6bcd0.png"
                 }
             }]
         })
