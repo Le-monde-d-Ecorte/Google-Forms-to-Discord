@@ -44,8 +44,8 @@ function onSubmit(e) {
         "payload": JSON.stringify({
             "content": "‌",
             "embeds": [{
-                "title": "Some nice title here",
-              "color": 33023, // This is optional, you can look for decimal colour codes at https://www.webtoolkitonline.com/hexadecimal-decimal-color-converter.html
+                "title": "Nouvelles demande de création de club.",
+                "color": 33023, // This is optional, you can look for decimal colour codes at https://www.webtoolkitonline.com/hexadecimal-decimal-color-converter.html
                 "fields": items,
                 "footer": {
                     "text": "Some footer here"
